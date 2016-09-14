@@ -10,7 +10,7 @@ namespace MagicNightRoslynExample {
         }
 
         static void Main(string[] args) {
-            Log(DateTime.Now, "Hello, my name is {0} {1}", "Yuri", "Gorokhov");
+            Log(DateTime.Now, "Hello, my name is {0} {1}", "Yuri");
         }
     }
 }
